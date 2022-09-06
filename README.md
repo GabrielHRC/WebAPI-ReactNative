@@ -42,7 +42,7 @@ No terminal, digite os comandos a seguir:
 
 ```bash
 # Clonar esse repositório
-$ git clone https://github.com/alura-cursos/react-native-ficando-online.git
+$ git clone https://github.com/GabrielHRC/WebAPI-ReactNative
 
 # Vá para o ropositório
 $ cd AluraHub
